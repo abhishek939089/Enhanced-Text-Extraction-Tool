@@ -112,7 +112,7 @@ Install my-project with npm
 
 If you have any feedback, please reach out to us at : 
 
-abhishek.sharma2_cs21@gmail.com or atharv.bhardwaj_cs21@gla.ac.in
+abhishek.sharma2_cs21@gla.ac.in or atharv.bhardwaj_cs21@gla.ac.in
 
 
 ## Contributing 👏🏻

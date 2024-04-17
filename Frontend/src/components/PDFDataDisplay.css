@@ -1,0 +1,19 @@
+.pdf-container {
+    margin: 20px;
+  }
+  
+  .pdf-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .pdf-text {
+    margin-top: 10px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
